@@ -19,6 +19,7 @@ gem 'paperclip', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 #heroku
 gem 'rails_12factor', group: :production
+gem 'aws-sdk'
 #login Authentication
 gem 'devise'
 # Use jquery as the JavaScript library
